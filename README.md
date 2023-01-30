@@ -38,7 +38,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 Python             15 hrs          ██████████████░░░░░░░░░░░   59.6 %
 JSX                10 hr           █████████░░░░░░░░░░░░░░░░   39.73 %
-CSS                10 mins          █░░░░░░░░░░░░░░░░░░░░░░░░  0.66 %
+CSS                10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  0.66 %
 Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
