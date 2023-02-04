@@ -22,6 +22,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 u can contact me , [email](mailto:ala.benna@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- 📝 come to see my portfolio https://portfolio-rust-tau-41.vercel.app/
 
 **languages and tools:**  
 
